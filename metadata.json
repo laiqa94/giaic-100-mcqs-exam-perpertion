@@ -1,0 +1,6 @@
+{
+  "name": "Panaversity Agent Factory: 100 Hard Scenario MCQs Exam Suite",
+  "description": "Comprehensive 100 hard scenario-based MCQs exam prep platform covering all 10 Panaversity Agent Factory modules with rigorous engineering scenarios, full mock exam mode, instant rationales, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
